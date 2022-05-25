@@ -1,4 +1,4 @@
-# ijoV2
+# Free
 
 Cara Menjalankan Nya ↓
 
@@ -18,8 +18,8 @@ $ pip install bs4
 
 $ pip install futures
 
-$ git clone https://github.com/https://github.com/JidanXd19/ijoV2
+$ git clone https://github.com/https://github.com/JidanXd19/Free
 
-$ cd ijoV2
+$ cd Free
 
 $ python2 gasKeun.py
